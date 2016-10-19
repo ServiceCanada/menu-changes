@@ -32,7 +32,7 @@ Grants and financing
 Business taxes
 Sell to government
 International trade and investment
-Research and development (R&D) and innovation
+Research and development (R&amp;D) and innovation
 Intellectual property and copyright
 Permits, licences and regulations
 Research and business intelligence
@@ -66,7 +66,7 @@ Savings and pension plans
 Child and family benefits
 Excise taxes, duties, and levies
 Charities and giving
-Taxes  – More
+Taxes – More
 Environment and natural resources
 National security and defence
 Culture, history and sport

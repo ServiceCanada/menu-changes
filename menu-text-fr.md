@@ -21,7 +21,7 @@ Immigration – Autres
 Conseils aux voyageurs et avertissements
 Attraits touristiques, événements et expériences au Canada
 Passeports canadiens
-Voyager à l’étranger
+Voyager à l'étranger
 Voyager en avion
 Retour au Canada
 Assistance à l’étranger
@@ -40,7 +40,7 @@ Engager et gérer des employés
 Maintenir, faire croître et améliorer votre entreprise
 Protéger votre entreprise
 Faillite pour les entreprises
-Entreprise – Autres
+Entreprises – Autres
 Assurance-emploi
 Prestations pour les familles
 Pensions publiques
